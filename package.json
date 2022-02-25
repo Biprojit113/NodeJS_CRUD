@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Biprojit113/NodeJS_CRUD#readme",
   "dependencies": {
     "express": "^4.17.2",
+    "mongoose": "^6.2.2",
     "nodemon": "^2.0.15"
   }
 }
