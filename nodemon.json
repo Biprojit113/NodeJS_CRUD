@@ -1,6 +1,7 @@
 {
     "env":{
         
-        "MON_PASS":"1234"
+        "MON_PASS":"1234" ,
+        "JWT_KEY":  "jwt_key"           
     }
 }
